@@ -29,23 +29,28 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.userControl2 = new Visual.UserControl2();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.userControl21 = new Visual.UserControl2();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // openFileDialog1
+            // pictureBox1
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.Title = "Seleccionar imagen";
-            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
+            this.pictureBox1.BackColor = System.Drawing.Color.LimeGreen;
+            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.Location = new System.Drawing.Point(6, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(395, 78);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
-            // userControl2
+            // userControl21
             // 
-            this.userControl2.BackColor = System.Drawing.Color.LimeGreen;
-            this.userControl2.Location = new System.Drawing.Point(12, 14);
-            this.userControl2.Name = "userControl2";
-            this.userControl2.Size = new System.Drawing.Size(885, 434);
-            this.userControl2.TabIndex = 0;
+            this.userControl21.BackColor = System.Drawing.Color.LimeGreen;
+            this.userControl21.Location = new System.Drawing.Point(17, 98);
+            this.userControl21.Name = "userControl21";
+            this.userControl21.Size = new System.Drawing.Size(383, 364);
+            this.userControl21.TabIndex = 1;
             // 
             // Form2
             // 
@@ -53,19 +58,21 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(909, 460);
-            this.Controls.Add(this.userControl2);
+            this.ClientSize = new System.Drawing.Size(413, 487);
+            this.Controls.Add(this.userControl21);
+            this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form2";
             this.Text = "Form2";
             this.TopMost = true;
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private UserControl2 userControl2;
-        public System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private UserControl2 userControl21;
     }
 }

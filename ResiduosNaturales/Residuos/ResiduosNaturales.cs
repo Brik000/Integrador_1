@@ -20,8 +20,8 @@ namespace Residuos
             this.nombre = nombre;
         }
 
-        public string Tipo { get => tipo; set => tipo = value; }
-        public int Identificador { get => identificador; set => identificador = value; }
-        public string Nombre { get => nombre; set => nombre = value; }
+        public string Tipo { get ; set ; }
+        public int Identificador { get; set ; }
+        public string Nombre { get ; set; }
     }
 }

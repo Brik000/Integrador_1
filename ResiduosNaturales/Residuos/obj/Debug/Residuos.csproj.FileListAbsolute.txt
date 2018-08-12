@@ -4,3 +4,9 @@ D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Residuos\obj\Debug\Res
 D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csproj.CoreCompileInputs.cache
 D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Residuos\obj\Debug\Residuos.dll
 D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Residuos\obj\Debug\Residuos.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\bin\Debug\Residuos.dll
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\bin\Debug\Residuos.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csprojAssemblyReference.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.dll
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.pdb

@@ -56,11 +56,11 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button1.Font = new System.Drawing.Font("MV Boli", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(225, 443);
+            this.button1.Location = new System.Drawing.Point(214, 443);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(134, 36);
+            this.button1.Size = new System.Drawing.Size(173, 36);
             this.button1.TabIndex = 3;
-            this.button1.Text = "Nuevos recursos";
+            this.button1.Text = "Informacion Compost";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
