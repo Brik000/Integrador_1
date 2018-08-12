@@ -1,16 +1,47 @@
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\bin\Debug\Visual.exe.config
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\bin\Debug\Visual.exe
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\bin\Debug\Visual.pdb
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.csprojAssemblyReference.cache
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.Form1.resources
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.Properties.Resources.resources
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.exe
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.pdb
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.UserControl1.resources
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\bin\Debug\Residuos.dll
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\bin\Debug\Residuos.pdb
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.CopyComplete
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.Form2.resources
-D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\Visual\obj\Debug\Visual.UserControl2.resources
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/bin/Debug/Visual.exe.config
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/bin/Debug/Visual.exe
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/bin/Debug/Visual.pdb
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.csprojAssemblyReference.cache
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.Form1.resources
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.Properties.Resources.resources
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.csproj.GenerateResource.cache
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.csproj.CoreCompileInputs.cache
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.exe
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.pdb
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.UserControl1.resources
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/bin/Debug/Residuos.dll
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/bin/Debug/Residuos.pdb
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.csproj.CopyComplete
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.Form2.resources
+D:/Visual studio/PROYECTOS INTEGRADOR 1/ResiduosNaturales/Visual/obj/Debug/Visual.UserControl2.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Debug/Visual.exe.config
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Debug/Visual.exe
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Debug/Visual.pdb
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Debug/Residuos.dll
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Debug/Residuos.pdb
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.csprojResolveAssemblyReference.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.Form1.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.Form2.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.Properties.Resources.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.UserControl1.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.UserControl2.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.csproj.GenerateResource.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.csproj.CoreCompileInputs.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.exe
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Debug/Visual.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\bin\Debug\Visual.exe.config
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\bin\Debug\Visual.exe
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\bin\Debug\Visual.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\bin\Debug\Residuos.dll
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\bin\Debug\Residuos.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.csprojAssemblyReference.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.Form1.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.Form2.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.UserControl1.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.UserControl2.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.csproj.CopyComplete
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.exe
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Visual\obj\Debug\Visual.pdb
