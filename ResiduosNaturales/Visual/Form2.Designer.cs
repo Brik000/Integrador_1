@@ -41,10 +41,10 @@
             // 
             // userControl2
             // 
-            this.userControl2.BackColor = System.Drawing.Color.ForestGreen;
+            this.userControl2.BackColor = System.Drawing.Color.LimeGreen;
             this.userControl2.Location = new System.Drawing.Point(12, 14);
             this.userControl2.Name = "userControl2";
-            this.userControl2.Size = new System.Drawing.Size(359, 434);
+            this.userControl2.Size = new System.Drawing.Size(885, 434);
             this.userControl2.TabIndex = 0;
             // 
             // Form2
@@ -53,7 +53,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(383, 460);
+            this.ClientSize = new System.Drawing.Size(909, 460);
             this.Controls.Add(this.userControl2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form2";

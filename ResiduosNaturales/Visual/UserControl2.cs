@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Visual
 {
     public partial class UserControl2 : UserControl
@@ -20,7 +21,23 @@ namespace Visual
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //listView1.Items.Add("List item text", 3);
+           // ListViewItem lista = new ListViewItem(textBox2.Text);
+            if (textBox2.Text=="" ||textBox1.Text==""|| textBox4.Text==""|| pictureBox1.Image == null)
+            {
+                MessageBox.Show("Debe llenar todos los campos");
+            }
+            if (pictureBox1.Image!=null)
+            {
+                imageList1.Images.Add(pictureBox1.Image);
+                
+            }
+
+            ListViewItem listItem = listView1.SelectedItems[0];
+            
+            listView1.Items.Add(textBox2.Text, 1);
+           // listView1.GetItemAt[0].ToolTipText(textBox4.Text);
+           
+            textBox3.Text = listItem.ToolTipText;
 
             
             
