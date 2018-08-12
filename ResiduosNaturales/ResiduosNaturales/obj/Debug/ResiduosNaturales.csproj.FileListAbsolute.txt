@@ -1,0 +1,7 @@
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\bin\Debug\ResiduosNaturales.exe.config
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\bin\Debug\ResiduosNaturales.exe
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\bin\Debug\ResiduosNaturales.pdb
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\obj\Debug\ResiduosNaturales.csproj.CoreCompileInputs.cache
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\obj\Debug\ResiduosNaturales.exe
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\obj\Debug\ResiduosNaturales.pdb
+D:\Visual studio\PROYECTOS INTEGRADOR 1\ResiduosNaturales\ResiduosNaturales\obj\Debug\ResiduosNaturales.csprojAssemblyReference.cache
