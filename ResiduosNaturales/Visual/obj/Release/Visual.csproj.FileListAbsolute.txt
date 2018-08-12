@@ -1,0 +1,15 @@
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Release/Visual.exe.config
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Release/Visual.exe
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Release/Visual.pdb
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Release/Residuos.dll
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/bin/Release/Residuos.pdb
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.csprojResolveAssemblyReference.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.Form1.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.Form2.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.Properties.Resources.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.UserControl1.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.UserControl2.resources
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.csproj.GenerateResource.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.csproj.CoreCompileInputs.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.exe
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Visual/obj/Release/Visual.pdb
