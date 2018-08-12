@@ -1,0 +1,5 @@
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Residuos/bin/Release/Residuos.dll
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Residuos/bin/Release/Residuos.pdb
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Residuos/obj/Release/Residuos.csproj.CoreCompileInputs.cache
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Residuos/obj/Release/Residuos.dll
+/Users/santiagodelcampo/Documents/GitHub/Integrador_1/ResiduosNaturales/Residuos/obj/Release/Residuos.pdb
