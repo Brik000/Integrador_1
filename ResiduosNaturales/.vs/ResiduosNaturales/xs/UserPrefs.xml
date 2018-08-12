@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{49CCE148-513A-4759-862A-E3B7F22250E7}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Residuos/ResiduosNaturales.cs">
+    <Files>
+      <File FileName="Residuos/ResiduosNaturales.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
