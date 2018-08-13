@@ -150,8 +150,10 @@ namespace Residuos
             String line;
             try
             {
-                StreamReader sr = new StreamReader(@"C:\Users\juanj\Documents\GitHub\Integrador_1\archivo.txt");
 
+                String ruta = System.Environment.GetEnvironmentVariable("USERPROFILE" + "\\Documents\\GitHub\\Integrador_1\\archivo.txt");
+                //    StreamReader sr = new StreamReader(@"C:\Users\juanj\Documents\GitHub\Integrador_1\archivo.txt");
+                StreamReader sr = new StreamReader(ruta);
                 line = "";
 
                 
