@@ -34,12 +34,7 @@ namespace Visual
             else { 
             ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, listBox1.Text);
             Composta_Universidad composta = new Composta_Universidad();
-                try{
-                    composta.AgregarResiduos(int.Parse(textBox1.Text), residuo);
-                }catch(Exception ){
-                    MessageBox.Show("error en cantidades");
-                }
-
+            composta.AgregarResiduos(int.Parse(textBox1.Text), residuo);
             label4.Text = composta.Cantidad_Actual1+"";
             }
         }
@@ -53,13 +48,7 @@ namespace Visual
             else { 
             ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, listBox1.Text);
             Composta_Universidad composta = new Composta_Universidad();
-                try
-                {
-                    composta.RetirarResiduos(int.Parse(textBox1.Text), residuo);
-                }catch(Exception){
-                    MessageBox.Show("error en cantidades");
-                }
-
+            composta.RetirarResiduos(int.Parse(textBox1.Text), residuo);
             label4.Text = composta.Cantidad_Actual1 + "";
             }
             if (label4.Text=="0")
