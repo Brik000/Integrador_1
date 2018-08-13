@@ -15,13 +15,14 @@ namespace Residuos
 
         public ResiduosNaturales(string tipo, int identificador, string nombre)
         {
-            this.Tipo = tipo;
+            this.tipo = tipo;
             this.identificador = identificador;
-            this.nombre = nombre;
+           
+           this. nombre = nombre;
         }
 
         public string Tipo { get ; set ; }
         public int Identificador { get; set ; }
-        public string Nombre { get ; set; }
+        public string Nombre { get => nombre; set => nombre = value; }
     }
 }

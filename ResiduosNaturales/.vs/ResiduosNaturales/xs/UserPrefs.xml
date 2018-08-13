@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{49CCE148-513A-4759-862A-E3B7F22250E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Visual/UserControl2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Residuos/Composta_Universidad.cs">
     <Files>
-      <File FileName="Residuos/Composta_Universidad.cs" Line="82" Column="22" />
-      <File FileName="Visual/UserControl2.cs" Line="37" Column="20" />
+      <File FileName="Residuos/Composta_Universidad.cs" Line="26" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

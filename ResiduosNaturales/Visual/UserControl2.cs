@@ -16,7 +16,8 @@ namespace Visual
         public UserControl2()
         {
             
-            Composta_Universidad composta = new Composta_Universidad();
+
+          
             InitializeComponent();
         }
 
@@ -27,15 +28,25 @@ namespace Visual
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             if (textBox1.Text == "")
             {
                 MessageBox.Show("Porfavor complete todos los campos");
             }
             else { 
-            ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, listBox1.Text);
+            ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, "agua");
             Composta_Universidad composta = new Composta_Universidad();
-            composta.AgregarResiduos(int.Parse(textBox1.Text), residuo);
-            label4.Text = composta.Cantidad_Actual1+"";
+                 
+                int nueva = int.Parse(textBox1.Text);
+                
+               
+                composta.AgregarResiduos(int.Parse(textBox1.Text), residuo);
+                int label = int.Parse(label4.Text);
+                int final = label + nueva;
+                
+                
+            label4.Text = final+"";
+                
             }
         }
 
@@ -46,15 +57,29 @@ namespace Visual
                 MessageBox.Show("Porfavor complete todos los campos");
             }
             else { 
-            ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, listBox1.Text);
+            ResiduosNaturales residuo = new ResiduosNaturales("organico", 1200, "agua");
             Composta_Universidad composta = new Composta_Universidad();
             composta.RetirarResiduos(int.Parse(textBox1.Text), residuo);
-            label4.Text = composta.Cantidad_Actual1 + "";
+            
             }
             if (label4.Text=="0")
             {
                 MessageBox.Show("En el Momento no hay residuos");
             }
+            else
+            {
+                int nuevo = int.Parse(textBox1.Text);
+                int label = int.Parse(label4.Text);
+                int final = label - nuevo;
+                label4.Text = final + "";
+
+
+            }
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }

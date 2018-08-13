@@ -125,19 +125,20 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 21;
             this.listBox1.Items.AddRange(new object[] {
-            "Pasto",
-            "Agua",
-            "Semillas",
-            "Papel",
-            "Cartón",
-            "Huesos",
-            "Cascara huevos",
-            "Excremento animales",
-            "Flores"});
+            "pasto",
+            "agua",
+            "semillas",
+            "papel",
+            "carton",
+            "huesos",
+            "cascara huevos",
+            "excremento animales",
+            "flores"});
             this.listBox1.Location = new System.Drawing.Point(133, 267);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(94, 25);
             this.listBox1.TabIndex = 8;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // button2
             // 

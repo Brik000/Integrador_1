@@ -15,10 +15,8 @@ namespace Visual
     public partial class Form1 : Form
     {
         private ResiduosNaturales residuos;
-
         public Form1()
         {
-            
             residuos = new ResiduosNaturales("organico", 1201,"pasto");
             residuos = new ResiduosNaturales("organico", 1202, "agua");
             residuos = new ResiduosNaturales("organico", 1203, "semillas");
@@ -28,7 +26,6 @@ namespace Visual
             residuos = new ResiduosNaturales("organico", 1207, "cascara huevos");
             residuos = new ResiduosNaturales("organico", 1208, "excremento animales");
             residuos = new ResiduosNaturales("organico", 1209, "flores");
-
             InitializeComponent();
         }
 
