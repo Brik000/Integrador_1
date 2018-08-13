@@ -9,3 +9,6 @@ C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\bin\Debu
 C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csproj.CoreCompileInputs.cache
 C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.dll
 C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.pdb
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csprojAssemblyReference.cache
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.Properties.Resources.resources
+C:\Users\juanj\Documents\GitHub\Integrador_1\ResiduosNaturales\Residuos\obj\Debug\Residuos.csproj.GenerateResource.cache

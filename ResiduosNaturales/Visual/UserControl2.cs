@@ -22,6 +22,7 @@ namespace Visual
             InitializeComponent();
 
             label2.Text = composta.Capacidad1 + "";
+            label4.Text = composta.Cantidad_Actual1 + "";
         }
 
         private void label2_Click(object sender, EventArgs e)

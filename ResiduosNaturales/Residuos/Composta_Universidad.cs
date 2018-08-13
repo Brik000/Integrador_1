@@ -6,7 +6,7 @@ namespace Residuos
 {
     public class Composta_Universidad
     {
-       
+
         private int Capacidad;
         private int Cantidad_Actual;
         private bool Espacio_Disponible;
@@ -19,12 +19,10 @@ namespace Residuos
 
         public Composta_Universidad()
         {
+            Capacidad = Cantidad_Actual = 0;
+            lectura();
             
 
-            Capacidad = int.Parse(lectura()[0]);
-            
-            Cantidad_Actual = 0;
-            
             Espacio_Disponible = true;
             residuo = new ResiduosNaturales[9];
 
@@ -128,7 +126,7 @@ namespace Residuos
             }
             else
             {
-             
+
             }
         }
 
@@ -144,58 +142,44 @@ namespace Residuos
 
 
 
-        public static string[] lectura()
+        public void lectura()
         {
-            string[] arreglo=null;
-            String line;
+            string[] arreglo = null;
+           
+            var content = Properties.Resources.archivo;
             try
             {
-                StreamReader sr = new StreamReader(@"C:\Users\juanj\Documents\GitHub\Integrador_1\archivo.txt");
+                Console.WriteLine(content);
 
-                line = "";
-
-                
-                while ((line = sr.ReadLine()) != null)
-                {
-                    
-                     arreglo = line.Split('-');
-                    
-                    
-                }
-                
-
-                sr.Close();
-                
+                arreglo = content.Split('-');
+                int.TryParse(arreglo[0].Trim(), out Capacidad);
+                int.TryParse(arreglo[1].Trim(), out Cantidad_Actual);
                 //Console.ReadLine();
                 Thread.Sleep(4000);
             }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
-            return arreglo;
+            catch (Exception e) { Console.WriteLine("Exception: " + e.Message); }
         }
 
-       /** public static void escritura()
-        {
-            try
-            {
+        /** public static void escritura()
+         {
+             try
+             {
 
-                StreamWriter sw = new StreamWriter("..\\ejemplo.txt", true);
+                 StreamWriter sw = new StreamWriter("..\\ejemplo.txt", true);
 
-                sw.WriteLine("\n- Hola de nuevo mundo!!");
+                 sw.WriteLine("\n- Hola de nuevo mundo!!");
 
-                sw.WriteLine("- :D");
+                 sw.WriteLine("- :D");
 
-                sw.Close();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception: " + e.Message);
-            }
-        }
+                 sw.Close();
+             }
+             catch (Exception e)
+             {
+                 Console.WriteLine("Exception: " + e.Message);
+             }
+         }
 
-    */
+     */
 
 
 
