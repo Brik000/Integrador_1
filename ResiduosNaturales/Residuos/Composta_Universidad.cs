@@ -1,9 +1,12 @@
 ﻿using System;
+using System.IO;
+using System.Threading;
+
 namespace Residuos
 {
     public class Composta_Universidad
     {
-
+       
         private int Capacidad;
         private int Cantidad_Actual;
         private bool Espacio_Disponible;
@@ -17,7 +20,8 @@ namespace Residuos
         public Composta_Universidad()
         {
             
-            Capacidad = 12345;
+
+            Capacidad = int.Parse(lectura()[0]);
             
             Cantidad_Actual = 0;
             
@@ -136,7 +140,66 @@ namespace Residuos
 
         }
 
-        
+
+
+
+
+        public static string[] lectura()
+        {
+            string[] arreglo=null;
+            String line;
+            try
+            {
+                StreamReader sr = new StreamReader(@"C:\Users\juanj\Documents\GitHub\Integrador_1\archivo.txt");
+
+                line = "";
+
+                
+                while ((line = sr.ReadLine()) != null)
+                {
+                    
+                     arreglo = line.Split('-');
+                    
+                    
+                }
+                
+
+                sr.Close();
+                
+                //Console.ReadLine();
+                Thread.Sleep(4000);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+            }
+            return arreglo;
+        }
+
+       /** public static void escritura()
+        {
+            try
+            {
+
+                StreamWriter sw = new StreamWriter("..\\ejemplo.txt", true);
+
+                sw.WriteLine("\n- Hola de nuevo mundo!!");
+
+                sw.WriteLine("- :D");
+
+                sw.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+            }
+        }
+
+    */
+
+
+
+
 
 
     }

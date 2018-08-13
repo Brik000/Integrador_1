@@ -15,10 +15,13 @@ namespace Visual
     {
         public UserControl2()
         {
+            Composta_Universidad composta = new Composta_Universidad();
             
 
           
             InitializeComponent();
+
+            label2.Text = composta.Capacidad1 + "";
         }
 
         private void label2_Click(object sender, EventArgs e)
